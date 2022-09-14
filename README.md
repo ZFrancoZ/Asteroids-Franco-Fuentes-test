@@ -1,2 +1,3 @@
 # Asteroids-test
  Test
+Executable
